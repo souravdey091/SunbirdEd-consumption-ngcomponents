@@ -1,6 +1,10 @@
 {
     "name": "@project-sunbird/common-consumption-v8",
+<<<<<<< HEAD
     "version": "3.6.2",
+=======
+    "version": "4.0.2",
+>>>>>>> upstream/v8_Migration_Branch_Latest
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Sunbird-Ed/SunbirdEd-consumption-ngcomponents.git"
